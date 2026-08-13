@@ -1,4 +1,4 @@
-
+   
 # SmartSales AI – Real-Time Sales Prediction & Business Analytics
 
 SmartSales AI is an enterprise-grade AI-powered business analytics and sales forecasting platform. Built with React (Vite), Tailwind CSS, Node.js (Express), Socket.IO real-time data streaming, Python Machine Learning service (scikit-learn / XGBoost), and MongoDB Atlas.
