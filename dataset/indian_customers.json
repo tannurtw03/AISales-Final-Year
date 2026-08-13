@@ -1,0 +1,82 @@
+[
+  {
+    "customerId": "CUST-IND-001",
+    "name": "Reliance Retail Logistics Hub",
+    "email": "procurement@relianceretail.in",
+    "phone": "+91 98200 12345",
+    "branch": "Mumbai BKC HQ",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-002",
+    "name": "Tata Consultancy Services (TCS Park)",
+    "email": "vendor.desk@tcs.com",
+    "phone": "+91 98450 67890",
+    "branch": "Bengaluru Electronic City",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-003",
+    "name": "Infosys Tech Campus Whitefield",
+    "email": "supplies@infosys.com",
+    "phone": "+91 98110 54321",
+    "branch": "Bengaluru Whitefield",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-004",
+    "name": "Bharti Airtel Telecom HQ",
+    "email": "infrastructure@airtel.in",
+    "phone": "+91 98710 98765",
+    "branch": "Delhi NCR HQ",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-005",
+    "name": "HDFC Bank Corporate Tech Center",
+    "email": "tech.admin@hdfcbank.com",
+    "phone": "+91 98920 11223",
+    "branch": "Mumbai Lower Parel",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-006",
+    "name": "Flipkart Fulfillment Center",
+    "email": "hub.procurement@flipkart.com",
+    "phone": "+91 98800 33445",
+    "branch": "Hyderabad Cyber City",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-007",
+    "name": "Wipro Digital Hinjewadi Campus",
+    "email": "procurement@wipro.com",
+    "phone": "+91 98480 55667",
+    "branch": "Pune Hinjewadi",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-008",
+    "name": "Mahindra & Mahindra Auto Division",
+    "email": "spare.supply@mahindra.com",
+    "phone": "+91 98220 77889",
+    "branch": "Pune Chakan",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-009",
+    "name": "Zomato & Blinkit Dark Store Network",
+    "email": "ops.equip@zomato.com",
+    "phone": "+91 98100 44332",
+    "branch": "Gurugram Hub",
+    "totalPurchases": 0
+  },
+  {
+    "customerId": "CUST-IND-010",
+    "name": "Titan Watch & Eyewear Retail Division",
+    "email": "retail.store@titan.co.in",
+    "phone": "+91 98440 99887",
+    "branch": "Chennai T. Nagar",
+    "totalPurchases": 0
+  }
+]

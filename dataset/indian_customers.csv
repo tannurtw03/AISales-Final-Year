@@ -1,0 +1,11 @@
+customerId,name,email,phone,branch,totalPurchases
+"CUST-IND-001","Reliance Retail Logistics Hub","procurement@relianceretail.in","+91 98200 12345","Mumbai BKC HQ",0
+"CUST-IND-002","Tata Consultancy Services (TCS Park)","vendor.desk@tcs.com","+91 98450 67890","Bengaluru Electronic City",0
+"CUST-IND-003","Infosys Tech Campus Whitefield","supplies@infosys.com","+91 98110 54321","Bengaluru Whitefield",0
+"CUST-IND-004","Bharti Airtel Telecom HQ","infrastructure@airtel.in","+91 98710 98765","Delhi NCR HQ",0
+"CUST-IND-005","HDFC Bank Corporate Tech Center","tech.admin@hdfcbank.com","+91 98920 11223","Mumbai Lower Parel",0
+"CUST-IND-006","Flipkart Fulfillment Center","hub.procurement@flipkart.com","+91 98800 33445","Hyderabad Cyber City",0
+"CUST-IND-007","Wipro Digital Hinjewadi Campus","procurement@wipro.com","+91 98480 55667","Pune Hinjewadi",0
+"CUST-IND-008","Mahindra & Mahindra Auto Division","spare.supply@mahindra.com","+91 98220 77889","Pune Chakan",0
+"CUST-IND-009","Zomato & Blinkit Dark Store Network","ops.equip@zomato.com","+91 98100 44332","Gurugram Hub",0
+"CUST-IND-010","Titan Watch & Eyewear Retail Division","retail.store@titan.co.in","+91 98440 99887","Chennai T. Nagar",0
